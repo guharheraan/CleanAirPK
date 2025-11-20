@@ -1,0 +1,103 @@
+{
+  "common": {
+    "welcome": "Welcome",
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "refresh": "Refresh",
+    "logout": "Logout",
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Submit"
+  },
+  "navigation": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "profile": "Profile",
+    "map": "Map",
+    "alerts": "Alerts",
+    "settings": "Settings"
+  },
+  "auth": {
+    "welcome_back": "Welcome back",
+    "create_account": "Create your account",
+    "full_name": "Full Name",
+    "confirm_password": "Confirm Password",
+    "already_have_account": "Already have an account? Sign in",
+    "no_account": "Don't have an account? Sign up"
+  },
+  "dashboard": {
+    "pakistan_air_quality": "Pakistan Air Quality Dashboard",
+    "current_air_quality": "Current Air Quality",
+    "cities_monitoring": "cities monitoring",
+    "select_city_forecast": "Select City for Forecast",
+    "pm25_forecast": "PM2.5 Forecast for",
+    "updated": "Updated",
+    "view_forecast": "View Forecast",
+    "viewing_forecast": "Viewing Forecast",
+    "city_cards_view": "City Cards View",
+    "map_view": "Map View",
+    "aqi_scale_guide": "AQI Scale Guide",
+    "quick_actions": "Quick Actions",
+    "health_tips": "Health Tips"
+  },
+  "aqi": {
+    "good": "Good",
+    "moderate": "Moderate",
+    "unhealthy_sensitive": "Unhealthy for Sensitive Groups",
+    "unhealthy": "Unhealthy",
+    "very_unhealthy": "Very Unhealthy",
+    "hazardous": "Hazardous",
+    "level": "Level",
+    "pm25": "PM2.5",
+    "last_updated": "Last Updated"
+  },
+  "map": {
+    "pakistan_air_quality_map": "Pakistan Air Quality Map",
+    "click_markers_details": "Click on markers to view station details",
+    "station_details": "Station Details",
+    "view_forecast": "View Forecast"
+  },
+  "alerts": {
+    "alert_settings": "Alert Settings",
+    "aqi_alert_threshold": "AQI Alert Threshold",
+    "browser_notifications": "Browser Notifications",
+    "enable_desktop_notifications": "Enable desktop notifications",
+    "test_notification": "Test Notification",
+    "alert_tips": "Alert Tips",
+    "alerts_checked_every_5_minutes": "Alerts are checked every 5 minutes automatically",
+    "one_alert_per_city_6_hours": "You'll only receive one alert per city every 6 hours",
+    "recommended_threshold_150": "Recommended threshold: 150 AQI for general population",
+    "threshold_100_respiratory": "Set to 100 AQI if you have respiratory conditions",
+    "notifications_enabled": "Notifications are enabled. You will receive alerts even when the app is closed.",
+    "notifications_disabled": "Enable notifications to get alerts when AQI exceeds your threshold."
+  },
+  "profile": {
+    "user_profile": "User Profile",
+    "update_profile": "Update Your Profile",
+    "risk_assessment": "Risk Assessment",
+    "risk_score": "Risk Score",
+    "category": "Category",
+    "health_advice": "Health Advice",
+    "age": "Age",
+    "chronic_conditions": "I have chronic respiratory conditions",
+    "smoker": "I am a smoker",
+    "daily_outdoor_hours": "Daily outdoor hours",
+    "alert_history": "Alert History",
+    "quick_links": "Quick Links",
+    "back_to_dashboard": "Back to Dashboard"
+  },
+  "health": {
+    "good_air_quality": "Air quality is good. Perfect for outdoor activities!",
+    "moderate_air_quality": "Air quality is acceptable. Enjoy outdoor activities.",
+    "sensitive_groups_warning": "Sensitive groups should reduce prolonged outdoor exposure.",
+    "reduce_outdoor_activities": "Everyone should reduce outdoor activities. Consider masks if outside.",
+    "avoid_outdoor_activities": "Avoid outdoor activities. Use air purifiers indoors.",
+    "emergency_conditions": "Emergency conditions. Stay indoors with windows closed."
+  }
+}

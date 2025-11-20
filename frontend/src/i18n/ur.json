@@ -1,0 +1,103 @@
+{
+  "common": {
+    "welcome": "خوش آمدید",
+    "loading": "لوڈ ہو رہا ہے...",
+    "save": "محفوظ کریں",
+    "cancel": "منسوخ کریں",
+    "delete": "حذف کریں",
+    "edit": "ترمیم کریں",
+    "view": "دیکھیں",
+    "refresh": "تازہ کریں",
+    "logout": "لاگ آؤٹ",
+    "login": "لاگ ان",
+    "register": "رجسٹر کریں",
+    "email": "ای میل",
+    "password": "پاس ورڈ",
+    "submit": "جمع کروائیں"
+  },
+  "navigation": {
+    "home": "ہوم",
+    "dashboard": "ڈیش بورڈ",
+    "profile": "پروفائل",
+    "map": "نقشہ",
+    "alerts": "الرٹس",
+    "settings": "ترتیبات"
+  },
+  "auth": {
+    "welcome_back": "خوش آمدید",
+    "create_account": "اپنا اکاؤنٹ بنائیں",
+    "full_name": "پورا نام",
+    "confirm_password": "پاس ورڈ کی تصدیق کریں",
+    "already_have_account": "پہلے سے اکاؤنٹ ہے؟ سائن ان کریں",
+    "no_account": "اکاؤنٹ نہیں ہے؟ سائن اپ کریں"
+  },
+  "dashboard": {
+    "pakistan_air_quality": "پاکستان ایئر کوالٹی ڈیش بورڈ",
+    "current_air_quality": "موجودہ ہوا کا معیار",
+    "cities_monitoring": "شہروں کی نگرانی",
+    "select_city_forecast": "پیشین گوئی کے لیے شہر منتخب کریں",
+    "pm25_forecast": "PM2.5 پیشین گوئی برائے",
+    "updated": "اپ ڈیٹ",
+    "view_forecast": "پیشین گوئی دیکھیں",
+    "viewing_forecast": "پیشین گوئی دیکھ رہے ہیں",
+    "city_cards_view": "شہر کارڈز کا نظارہ",
+    "map_view": "نقشہ کا نظارہ",
+    "aqi_scale_guide": "AQI اسکیل گائیڈ",
+    "quick_actions": "فوری اقدامات",
+    "health_tips": "صحت کے نکات"
+  },
+  "aqi": {
+    "good": "اچھا",
+    "moderate": "معتدل",
+    "unhealthy_sensitive": "حساس گروپوں کے لیے غیر صحت بخش",
+    "unhealthy": "غیر صحت بخش",
+    "very_unhealthy": "انتہائی غیر صحت بخش",
+    "hazardous": "خطرناک",
+    "level": "سطح",
+    "pm25": "PM2.5",
+    "last_updated": "آخری اپ ڈیٹ"
+  },
+  "map": {
+    "pakistan_air_quality_map": "پاکستان ہوا کے معیار کا نقشہ",
+    "click_markers_details": "اسٹیشن کی تفصیلات دیکھنے کے لیے مارکرز پر کلک کریں",
+    "station_details": "اسٹیشن کی تفصیلات",
+    "view_forecast": "پیشین گوئی دیکھیں"
+  },
+  "alerts": {
+    "alert_settings": "الرٹ کی ترتیبات",
+    "aqi_alert_threshold": "AQI الرٹ حد",
+    "browser_notifications": "براؤزر اطلاعات",
+    "enable_desktop_notifications": "ڈیسک ٹاپ اطلاعات کو فعال کریں",
+    "test_notification": "ٹیسٹ نوٹیفکیشن",
+    "alert_tips": "الرٹ تجاویز",
+    "alerts_checked_every_5_minutes": "الرٹس ہر 5 منٹ میں خود کار طریقے سے چیک کیے جاتے ہیں",
+    "one_alert_per_city_6_hours": "آپ کو ہر شہر کے لیے ہر 6 گھنٹے میں صرف ایک الرٹ موصول ہوگا",
+    "recommended_threshold_150": "تجویز کردہ حد: عام آبادی کے لیے 150 AQI",
+    "threshold_100_respiratory": "اگر آپ کو سانس کی حالت ہے تو 100 AQI پر سیٹ کریں",
+    "notifications_enabled": "اطلاعات فعال ہیں۔ آپ کو الرٹس موصول ہوں گی چاہے ایپ بند ہو۔",
+    "notifications_disabled": "اطلاعات کو فعال کریں تاکہ آپ کو الرٹس موصول ہوں جب AQI آپ کی حد سے تجاوز کرے۔"
+  },
+  "profile": {
+    "user_profile": "صارف پروفائل",
+    "update_profile": "اپنا پروفائل اپ ڈیٹ کریں",
+    "risk_assessment": "خطرے کا اندازہ",
+    "risk_score": "خطرے کا اسکور",
+    "category": "قسم",
+    "health_advice": "صحت کا مشورہ",
+    "age": "عمر",
+    "chronic_conditions": "مجھے دائمی سانس کی حالت ہے",
+    "smoker": "میں تمباکو نوشی کرتا ہوں",
+    "daily_outdoor_hours": "روزانہ باہر گزارے گئے اوقات",
+    "alert_history": "الرٹ ہسٹری",
+    "quick_links": "فوری لنکس",
+    "back_to_dashboard": "ڈیش بورڈ پر واپس جائیں"
+  },
+  "health": {
+    "good_air_quality": "ہوا کا معیار اچھا ہے۔ باہر کی سرگرمیوں کے لیے بہترین!",
+    "moderate_air_quality": "ہوا کا معیار قابل قبول ہے۔ باہر کی سرگرمیوں سے لطف اٹھائیں۔",
+    "sensitive_groups_warning": "حساس گروپوں کو طویل عرصے تک باہر رہنے سے گریز کرنا چاہیے۔",
+    "reduce_outdoor_activities": "سب کو باہر کی سرگرمیاں کم کرنی چاہئیں۔ باہر جانے پر ماسک کا استعمال کریں۔",
+    "avoid_outdoor_activities": "باہر کی سرگرمیوں سے گریز کریں۔ اندر ایئر پیوریفائر استعمال کریں۔",
+    "emergency_conditions": "ہنگامی حالات۔ کھڑکیاں بند کر کے اندر رہیں۔"
+  }
+}
